@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/TechyShreyansh/Mia/blob/master/FallenRobot/resources/Mia.gif">
+  <img src="https://github.com/TechyShreyansh/Mia/blob/master/FallenRobot/resources/Mia.png">
 </p>
 
 **_Available on Telegram as [@FallenxBot](https://t.me/FallenxBot)_**
