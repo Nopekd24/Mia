@@ -27,8 +27,6 @@
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnonymousX1025/FallenRobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=string-session&type=git&repository=ShreyanshMods%2FRoseBot&branch=master&builder=buildpack&run_command=gunicorn+app%3Aapp+%26+python3+-m+FallenRobot&regions=was&env%5BAPI_HASH%5D=b362114c9be7daac16b60e82db0c8ad8&env%5BAPI_ID%5D=29911519&env%5BDB_URI%5D=postgres%3A%2F%2Favnadmin%3AAVNS_haQWrDRLapcFJYdR1_3%40rosebot-raishreya2923-bd1e.f.aivencloud.com%3A27882%2Fdefaultdb%3Fsslmode%3Drequire&env%5BEVENT_LOGS%5D=-1002419154233&env%5BMONGO_DB_URI%5D=mongodb%2Bsrv%3A%2F%2Fshauryrai16%3AFPq1E3AzMcakOoPj%40cluster0.rq3nr.mongodb.net%2F%3FretryWrites%3Dtrue%26w%3Dmajority%26appName%3DCluster0&env%5BOWNER_ID%5D=6910445402&env%5BPORT%5D=8080&env%5BSUPPORT_CHAT%5D=MiaGropDemo&env%5BTOKEN%5D=7253826782%3AAAFgH1q8E8J_c9kI8UrKdRMQC9Cgo4FgGTY&ports=8080%3Bhttp%3B%2F)
-
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
@@ -39,8 +37,7 @@
     ─「 Deploy on KOYEB 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnonymousX1025/FallenRobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnonymousX1025/FallenRobot"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 Deploy on VPS/Local 」─
