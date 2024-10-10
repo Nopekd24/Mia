@@ -124,8 +124,5 @@ Press `Ctrl+b` and then `d`
     ─「 Credits 」─
 </h3>
 
-- <b>[Me](https://github.com/AnonymousX1025)</b>
-- <b>[Paul Larsen](https://github.com/PaulSonOfLars) for [Tg Bot](https://github.com/PaulSonOfLars/tgbot)</b>
-- <b>[Hamker Cat](https://github.com/TheHamkerCat) for [William Butcher](https://github.com/TheHamkerCat/WilliamButcherBot)</b>
- 
-<b>and all other [contributors](https://github.com/AnonymousX1025/FallenRobot/graphs/contributors) who helped in making this project possible.</b>
+- <b>[Me](https://github.com/TechyShreyansh)</b>
+- <b>[ShineAds](https://telegram.me/shineadshelp)
