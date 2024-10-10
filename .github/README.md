@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ 」──
+    ──「 Mia ✘ Robot 」──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/6961eb4e48ff175661166.jpg">
+  <img src="https://github.com/TechyShreyansh/Mia/blob/master/FallenRobot/resources/Mia.gif">
 </p>
 
 **_Available on Telegram as [@FallenxBot](https://t.me/FallenxBot)_**
