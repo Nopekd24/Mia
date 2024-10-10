@@ -37,7 +37,32 @@
     ─「 Deploy on KOYEB 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnonymousX1025/FallenRobot"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="220" height="38.45"/></a></p>
+`API_HASH` - "eb06d4abfb49dc3eeb1aeb98ae0f581e" `Add Api Hash Get From Here my.telegram.org`
+
+`API_ID` - 214586378 `Add Api Id Get From Here my.telegram.org`
+
+`CASH_API_KEY` -  Get this value for currency converter from Here `https://www.alphavantage.co/support/#api-key`
+
+`DB_URI` - A sql database url from Here `https://aiven.io/` Create As Database postgresql
+
+`EVENT_LOGS` - Event logs channel to note down important bot level events
+
+`MONGO_DB_URI` - Get ths value from `cloud.mongodb.com`
+
+`OWNER_ID` - User id of your telegram account (Must be integer) Get From Here `@userinfobot`
+
+`PORT` - 8080
+
+`SUPPORT_CHAT` - Your Telegram support group chat username where your users will go and bother you
+
+`TIME_API_KEY` - Get this value from Here `https://timezonedb.com/api`
+
+`TOKEN` - Get bot token from `@BotFather` on Telegram
+
+- Note :  After This change Go to `FallenRobot/config.py` and Which Variables You have Added on Koyeb Add All Thing Same on Config.py.
+- Configure Porst Also Do `8080` For Do Work Properly
+
+<p align="center"><a href="https://app.koyeb.com/deploy?name=mia&type=git&repository=TechyShreyansh%2FMia&branch=master"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 Deploy on VPS/Local 」─
