@@ -70,7 +70,7 @@
 
 <details>
 <summary><h3>
-## - <b>VPS/Local Deployment Method</b>
+ - <b>VPS/Local Deployment Method</b>
 </h3></summary>
 
 - Get your [Necessary Variables](https://github.com/TechyShreyansh/Mia/blob/master/Mia/config.py)
