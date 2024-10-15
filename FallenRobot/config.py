@@ -2,27 +2,27 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    API_ID = 214586378
-    API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+    API_ID = 26950231
+    API_HASH = "2111ec3bde28f2c4190c490eb5526238"
 
     CASH_API_KEY = ""  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
-    DATABASE_URL = ""  # A sql database url from https://aiven.io/ Create As Database postgresql
+    DATABASE_URL = "postgres://koyeb-adm:aj2JdlE4ubks@ep-winter-wildflower-a2qa55in.eu-central-1.pg.koyeb.app/koyebdb"  # A sql database url from https://aiven.io/ Create As Database postgresql
 
     EVENT_LOGS = ()  # Event logs channel to note down important bot level events
 
-    MONGO_DB_URI = ""  # Get ths value from cloud.mongodb.com
+    MONGO_DB_URI = "mongodb+srv://Aanandkd:24112908@cluster01.mry06.mongodb.net/"  # Get ths value from cloud.mongodb.com
 
     # Telegraph link of the image which will be shown at start command.
-    START_IMG = "https://i.ibb.co/hW0rkXH/Mia-Bot-logo-with-the-name-in-black-and-color.jpg"
+    START_IMG = "https://envs.sh/TqG.jpg"
 
-    SUPPORT_CHAT = "Techy_Shreyansh2"  # Your Telegram support group chat username where your users will go and bother you
+    SUPPORT_CHAT = "back2home1"  # Your Telegram support group chat username where your users will go and bother you
 
-    TOKEN = ""  # Get bot token from @BotFather on Telegram
+    TOKEN = "8190445173:AAHAcLjvF6Vvlk--xlIKpcNjJJidvbqVWFE"  # Get bot token from @BotFather on Telegram
 
     TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
 
-    OWNER_ID = 6910445402  # User id of your telegram account (Must be integer)
+    OWNER_ID = 7229313541  # User id of your telegram account (Must be integer)
 
     # Optional fields
     BL_CHATS = []  # List of groups that you want blacklisted.
